@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 - 🗒  I am currently very obsected with learning vimscript
 </details>
 -->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-oquendo-huanca/)](https://www.linkedin.com/in/jose-oquendo-huanca/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseoquendo26@hotmail.com)](mailto:joseoquendo26@hotmail.com)
 
 <h3 align="center"> Languages and Tools</h3>
 <p align="center">
@@ -53,8 +55,8 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/JoseOquendoHuanca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseOquendoHuanca&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseOquendoHuanca&layout=compact&langs_count=7&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseOquendoHuanca&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseOquendoHuanca&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
