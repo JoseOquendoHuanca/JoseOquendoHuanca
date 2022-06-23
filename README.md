@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-oquendo-huanca/)](https://www.linkedin.com/in/jose-oquendo-huanca/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseoquendo26@hotmail.com)](mailto:joseoquendo26@hotmail.com)
 
-<h3 align="center"> Languages and Tools</h3>
+<h3 align="left"> Languages and Tools</h3>
 <p align="center">
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a"/> </a>
