@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-oquendo-huanca/)](https://www.linkedin.com/in/jose-oquendo-huanca/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseoquendo26@hotmail.com)](mailto:joseoquendo26@hotmail.com)
 
+---
 <h3 align="left"> Languages and Tools</h3>
 <p align="center">
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>
@@ -53,11 +54,12 @@ Here are some ideas to get you started:
 
 <h3 align="left"> GitHub Stats</h3>
 
-<div>
-  <a href="https://github.com/JoseOquendoHuanca">
+ <a href="https://github.com/JoseOquendoHuanca">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseOquendoHuanca&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ </a>
+ <a href="https://github.com/JoseOquendoHuanca">
   <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseOquendoHuanca&layout=compact&langs_count=7&theme=radical"/>
-</div>
+ </a>
 
 ![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
 
