@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-oquendo-huanca/)](https://www.linkedin.com/in/jose-oquendo-huanca/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseoquendo26@hotmail.com)](mailto:joseoquendo26@hotmail.com)
+  <a href="https://discord.com/channels/@me"> <img src="https://img.shields.io/badge/Discord-7289DA?=discord&logoColor=white"/> </a>
+     
 
 ---
 <h3 align="left"> Languages and Tools</h3>
@@ -60,7 +62,7 @@ Here are some ideas to get you started:
  <a href="https://github.com/JoseOquendoHuanca">
   <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseOquendoHuanca&layout=compact&langs_count=7&theme=radical"/>
  </a>
-
+ 
 ![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
 
 
